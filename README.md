@@ -7,6 +7,8 @@ O projeto foi feito para mostrar algumas informações referentes aos preços da
 
 Nessa primeira parte do projeto final, foi solicitado a confecção de gráficos que podessem mostrar alguma informção relevante sobre o data set escolhido. Essas comparações foram feitas e os gráficos foram gerados a partir da biblioteca Ploty junto com a importação de dados via pandas de um arquivo .csv.
 
+
+
 ## Inglish
 ### Part 1 of the final work of the matter, in order to put into practice all the knowledge acquired during the semester.
 
