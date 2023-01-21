@@ -45,7 +45,6 @@ for i in range(len(Empresa)):
     Etsy.append(Empresa[i])    
 
 #Calcula a média de abertura de cada ano de cada empresa
-
 total12,total13,total14,total15,total16,total17,total18,total19,total20,total21,total22,totalface = ([] for i in range(12))
 
 for i in range(len(Data)):
