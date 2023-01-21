@@ -1,5 +1,5 @@
 # Trabalho de Algoritimos e Programação de Computadores da Universidade de Brasília - UnB
-##Parte 1 do trabalho final da disciplina, com o intuito de colocar em prática todos os conhecimentos adquiridos durante o semestre. 
+## Parte 1 do trabalho final da disciplina, com o intuito de colocar em prática todos os conhecimentos adquiridos durante o semestre. 
 
 Nesse trabalho foi utilizada como linguagem de programação, o Python, junto com as bibliotecas Pandas e Ploty.
 
@@ -7,8 +7,8 @@ O projeto foi feito para mostrar algumas informações referentes aos preços da
 
 Nessa primeira parte do projeto final, foi solicitado a confecção de gráficos que podessem mostrar alguma informção relevante sobre o data set escolhido. Essas comparações foram feitas e os gráficos foram gerados a partir da biblioteca Ploty junto com a importação de dados via pandas de um arquivo .csv.
 
-##Inglish
-## Part 1 of the final work of the matter, in order to put into practice all the knowledge acquired during the semester.
+## Inglish
+### Part 1 of the final work of the matter, in order to put into practice all the knowledge acquired during the semester.
 
 In this work, Python was used as a programming language, along with the Pandas and Ploty libraries.
 
