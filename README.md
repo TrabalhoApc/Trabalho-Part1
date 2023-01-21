@@ -1,4 +1,4 @@
-# Trabalho de Algoritimos e Programação de computadores da Universidade de Brasília - UnB
+# Trabalho de Algoritimos e Programação de Computadores da Universidade de Brasília - UnB
 Trabalho final da matéria, com o intuito de colocar em prática todos os conhecimentos adquiridos durante o semestre. 
 
 Nesse trabalho foi utilizada como linguagem de programação, o Python, junto com as bibliotecas Pandas e Ploty.
