@@ -443,7 +443,7 @@ fig.show()
 
 #Grafico de torta Quant de Vendas relação á empresas
 cores = ['#3b5998','#00acee','#FFFC00','#E60023','#F56400']
-fig2 = px.pie(values= Quantidade_de_Vendas, names= Empresa,hole = 0.5,title='Quantidade total de vendas nos anos de 2012 e 2022',color_discrete_sequence=cores)
+fig2 = px.pie(values= Quantidade_de_Vendas, names= Empresa,hole = 0.5,title='Quantidade total de vendas nos anos de 2012 a 2022',color_discrete_sequence=cores)
 fig2.update_layout(legend_title='Empresa')
 fig2.show()
 
