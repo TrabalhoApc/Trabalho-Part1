@@ -9,7 +9,7 @@ Nessa primeira parte do projeto final, foi solicitado a confecção de gráficos
 
 
 
-## Inglish
+## English
 ### Part 1 of the final work of the matter, in order to put into practice all the knowledge acquired during the semester.
 
 In this work, Python was used as a programming language, along with the Pandas and Ploty libraries.
