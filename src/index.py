@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-df = pd.read_csv('C:\Users\matro\Desktop\Trabalho APC\social-media-stocks-2012-2022-_1_.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/OGatoCapitalista/trabalhinho/main/social-media-stocks-2012-2022-_1_.csv')
 df = df.values.tolist()
 
 Quantidade_de_Vendas, Menor_Valor,  Maior_Valor, Fechamento, Abertura, Empresa, Data = ([] for i in range(7))
